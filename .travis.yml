@@ -3,7 +3,7 @@
 # every time something is submitted, and send me email if
 # the test breaks
 language: c
-
+1
 os:
   - linux
   - osx
